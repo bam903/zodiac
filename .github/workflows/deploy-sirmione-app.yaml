@@ -2,7 +2,7 @@
 # To get this workflow to trigger you need to edit one of the files in the Sirmione-Web project.
 # to change the name of the resource edit the ALIAS below
 
-#on:
+#on: 
 #  push:
 #    paths:
 #    - sirmione-web/Application/Sirmione.Web/**
